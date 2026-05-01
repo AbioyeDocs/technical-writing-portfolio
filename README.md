@@ -1,4 +1,4 @@
-I am a technical writer focused on creating clear, structured and user-friendly documentation for developers and technical teams. My work emphasizes clarity, usability, and real-world application.
+I am a senior technical writer with 5+ years of experience focused on translating complex technical concepts into clear, user-friendly documentation for developers and technical teams. My work emphasizes clarity, usability, and real-world application.
 ## Core Competencies
 
 - API documentation
