@@ -19,6 +19,7 @@ I am a senior technical writer with 5+ years of experience focused on translatin
 - Endpoint Descriptions
 - Request & response samples
 - Error handling
+  
   Folder: /api-documentation/README.md
 
   ### 2. SOP - Incident Reporting Process
@@ -28,12 +29,14 @@ I am a senior technical writer with 5+ years of experience focused on translatin
     - Roles & responsibilities
     - Step-by-step workflow
     - Incident classificaton
-    - Escalation processs
+    - Escalation process
+      
       Folder: /sop-processes/README.md
 
       ### User Guides
       Google Drive User Guide demonstrating the ability to document software workflows for non-technical audiences
-      Folder: /userguide/README.md
+      
+      Folder: /user-guide/README.md
 
       ## Tools & Technologies
       
